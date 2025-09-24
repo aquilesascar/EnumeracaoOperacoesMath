@@ -1,9 +1,8 @@
 public enum Enumeracoes {
-    ADD('+'), SUB('-'), MUL('x'), DIV('/');
+    SOMA('+'), SUBTRACAO('-'), MULTIPLICACAO('x'), DIVISAO('/');
 
     private char simboloOP;
 
-    // Construtor da enumeração
     private Enumeracoes(char simbolo) {
         this.simboloOP = simbolo;
     }
