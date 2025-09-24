@@ -1,4 +1,3 @@
-// Conteúdo para o arquivo TestaOperacao.java
 public class TestaOperacao {
     public static void main(String[] args) throws Exception {
         //testando com a operação SOMA
